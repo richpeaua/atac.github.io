@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Atac</title>
+    <link>https://atac.to/author/</link>
+    <description>Recent content in Authors on Atac</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="https://atac.to/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lisiate (Rich) Peaua</title>
+      <link>https://atac.to/author/lisiate-rich-peaua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atac.to/author/lisiate-rich-peaua/</guid>
+      <description>Passionate technologist with 8+ years in IT, with experience ranging from Networking, Systems Administration, DevOps, Cybersecruity, Cloud Engineering, and Software Development.</description>
+    </item>
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://atac.to/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atac.to/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+  </channel>
+</rss>
